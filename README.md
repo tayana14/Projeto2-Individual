@@ -1,2 +1,2 @@
 # Projeto2individualSenacmd3
-Projeto react
+Projeto reactbobo-bublanina-77038c.netlify.app/
