@@ -11,5 +11,5 @@ Senac modulo 3
 🔸Projeto: reactbobo-bublanina-77038c.netlify.app/
 https://silly-bublanina-77038c.netlify.app/
 
-<h2>:cherry_blossom Home:</h2>
+<h2>:cherry_blossom: Home:</h2>
 <img src="https://imgur.com/X3CIVvr.png" width="100%"></img>
