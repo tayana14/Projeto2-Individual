@@ -2,13 +2,14 @@
 Senac modulo 3
 
 
-<h2>📜 O projeto:</h2>
+<h3>📜 O projeto:</h3>
 
-:computer: Realizar uma pagina Home. :computer:
+:computer: Realizar uma pagina Home.
 
-<h2>📜 Link do projeto:</h2>
+<h3>📜 Link do projeto:</h3>
 
 🔸Projeto: reactbobo-bublanina-77038c.netlify.app/
 https://silly-bublanina-77038c.netlify.app/
 
-<h2> Home:</h2>
+<h2>:cherry_blossom Home:</h2>
+<img src="https://imgur.com/X3CIVvr.png" width="100%"></img>
